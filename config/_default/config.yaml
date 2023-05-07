@@ -4,7 +4,7 @@ theme: "starter-hugo-research-group"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
+title: Ding Lab # Website name
 baseURL: 'https://ding-lab.netlify.app' # Website URL
 
 ############################
@@ -12,8 +12,8 @@ baseURL: 'https://ding-lab.netlify.app' # Website URL
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+hasCJKLanguage: true
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
