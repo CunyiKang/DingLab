@@ -13,6 +13,7 @@ sections:
       Research Group
 - block: collection
   content:
+    title: Welcome！！！
     count: 5
     filters:
       author: ""
@@ -25,7 +26,6 @@ sections:
     page_type: post
     subtitle: null
     text: null
-    title: Latest News
   design:
     columns: "1"
     view: card
