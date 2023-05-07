@@ -8,9 +8,8 @@ sections:
     text: |
       <br>
 
-      The **Wowchemy Research Group** Welcome to our research group.It belong to the National Key Laboratory of Cognitive Neuroscience and Learning , Beijing Normal university, China. We use fMRI/MRI ,combined with cognitive-behavior experimental techniques to address the following questions: what’s the neurobasis of Language, how language experience and language learning modulate brain structure and function. Bilingualism , sign-language users (including deaf people and hearing people), and dyslexics compose our interest population ..
+      Welcome to **Ding Lab**.It belong to the National Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal university, China. We use fMRI/MRI,combined with cognitive-behavior experimental techniques to address the following questions: what’s the neurobasis of Language, how language experience and language learning modulate brain structure and function. Bilingualism, sign-language users (including deaf people and hearing people), and dyslexics compose our interest population.
     title: |
-      Neurolinguistics
       Research Group
 - block: collection
   content:
