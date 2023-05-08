@@ -24,7 +24,7 @@ sections:
         position: center
       content: Share your knowledge with the group and explore exciting new topics
         together!
-      title: Lunch & Learn ☕️
+      title: Discuss & Learn 🐱‍🏍
     - align: right
       background:
         color: '#333'
@@ -33,13 +33,13 @@ sections:
           filters:
             brightness: 0.5
         position: center
-      content: Just opened last month!
+      content: 🍰🍰🍰🍰🍰
       link:
         icon: graduation-cap
         icon_pack: fas
         text: Join Us
         url: ../contact/
-      title: World-Class Semiconductor Lab
+      title: Enjoy Food!!!
   design:
     interval: 2000
     is_fullscreen: true
