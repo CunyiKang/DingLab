@@ -23,7 +23,7 @@ last_name: Guo
 organizations:
 - name: Shenzhen University
   url: "https://brain.bnu.edu.cn/kytd/jsyjy/Djs/f5b018dd06d140f582ebdf24818bcb6e.htm"
-role: Assistant Professor
+role: postdoctor
 social:
 - icon: envelope
   icon_pack: fas
