@@ -1,6 +1,6 @@
 ---
 date: "2023-05-08T09:18:00Z"
-external_link: https://mp.weixin.qq.com/s/3p82obNrZWOB5oMymmuDGw
+external_link: https://mp.weixin.qq.com/s/4P81EP5STG24mNg_qI33Dw
 image:
   caption: 
   focal_point: Smart
