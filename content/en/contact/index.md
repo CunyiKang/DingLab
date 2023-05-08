@@ -13,8 +13,8 @@ sections:
     appointment_url: #https://calendly.com
     autolink: true
     coordinates:
-      latitude: "39.9615"
-      longitude: "116.3716"
+      latitude: "39.96010"
+      longitude: "116.36534"
     directions: Enter Building C and take the stairs to Floor 3
     email: dinggsh#bnu.edu.cn
     form:
