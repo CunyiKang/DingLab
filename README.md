@@ -1,2 +1,2 @@
 # DingLab
-https://ding-lab.netlify.app/
+https://dinglab.netlify.app/
