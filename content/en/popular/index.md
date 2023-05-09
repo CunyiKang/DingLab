@@ -1,6 +1,6 @@
 
 ---
-title: My page
+title: Popular Topics
 type: landing
 
 sections:
