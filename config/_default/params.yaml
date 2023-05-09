@@ -76,18 +76,21 @@ features:
   avatar:
     gravatar: false
     shape: circle
-  comment:
-    provider: ''
+  comment: 
+    provider: giscus
     disqus:
       shortname: ''
       show_count: true
     commento:
       url: ''
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: 'CunyiKang/DingLab'
+      repo_id: 'R_kgDOJfxcIQ'
+      category: 'Announcements'
+      category_id: 'DIC_kwDOJfxcIc4CWXgL'
+      theme: 'preferred_color_scheme'
+      language_code: 'en'
+      mapping: 'pathname'
   search:
     provider: wowchemy
     algolia:

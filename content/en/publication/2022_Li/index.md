@@ -1,7 +1,6 @@
 ---
 abstract: Multiple areas in the cerebellum have been reported to be engaged in reading. However, how these regions cooperate with the reading-related areas in the cerebrum remains unclear. Here, brain images of fifty-two adults were acquired via functional magnetic resonance imaging. By comparing the cerebellar activation across three localization tasks targeting orthographic, phonological, and semantic processing, we first identified three different reading-related areas in the cerebellum, biased toward orthography, phonology, and semantics, respectively. Then, functional connectivity (FC) analyses demonstrated that the mean FC between functionally corresponding areas across the cerebrum and cerebellum was greater than that between noncorresponding areas during silent word reading. FC patterns of functionally corresponding areas could significantly predict reading speed, with the FC driven from orthographic and semantic areas contributing the most. Effective FC analyses further showed that orthographic and semantic areas in the cerebellum had selective and direct connectivity to areas in the cerebrum with similar functional specificity. These results suggest that reading-related areas vary in their functions to reading, and cooperation between areas with corresponding functions was greater than that between noncorresponding areas. These findings emphasize the importance of functional cooperation between the cerebrum and cerebellum during reading from a new perspective.
 
-
 author_notes:
 # - Equal contribution
 # - Equal contribution
