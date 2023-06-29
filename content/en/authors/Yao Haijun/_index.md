@@ -22,7 +22,8 @@ social:
   icon_pack: fas
   link: mailto:yaohaijun13@qq.com
 superuser: true
-title: Haijun Zhang
+title: Haijun Yao
 user_groups:
 - Grad Students
+weight: 30
 ---

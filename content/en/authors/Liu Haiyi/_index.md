@@ -24,5 +24,5 @@ social:
 superuser: true
 title: Haiyi Liu
 user_groups:
-- Administration
+- Research Assistants
 ---

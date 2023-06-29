@@ -29,4 +29,5 @@ superuser: true
 title: Yang Lei
 user_groups:
 - Grad Students
+weight: 20
 ---

@@ -25,4 +25,5 @@ superuser: true
 title: Chan Tang
 user_groups:
 - Grad Students
+weight: 30
 ---

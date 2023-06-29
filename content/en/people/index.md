@@ -8,11 +8,12 @@ sections:
     title: Meet the Team
     user_groups:
     - Principal Investigators
-    - Researchers
+    - Co-Investigators
+    - Research Assistants
     - Grad Students
-    - Administration
     - Visitors
     - Alumni
+
   design:
     show_interests: false
     show_role: true

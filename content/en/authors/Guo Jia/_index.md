@@ -27,5 +27,5 @@ social:
 superuser: true
 title: Jia Guo
 user_groups:
-- Researchers
+- Co-Investigators
 ---

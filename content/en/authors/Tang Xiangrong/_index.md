@@ -26,4 +26,5 @@ superuser: true
 title: Xiangrong Tang
 user_groups:
 - Grad Students
+weight: 30
 ---

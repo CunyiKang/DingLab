@@ -29,4 +29,5 @@ superuser: true
 title: Shijie Li
 user_groups:
 - Grad Students
+weight: 10
 ---

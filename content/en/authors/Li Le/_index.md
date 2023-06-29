@@ -1,0 +1,38 @@
+---
+bio: 
+  matter.
+education:
+  courses:
+  - course: 博士学位
+    institution: 
+    year: 
+  - course: 硕士学位
+    institution: 
+    year: 
+  - course: 学士学位
+    institution: 
+    year: 
+email: "lile8891@gmail.com"
+first_name: Le
+highlight_name: false
+interests:
+- 汉语认知神经科学
+- 双语研究
+- 语言学习的脑机制
+last_name: Li
+organizations:
+- name: XXXXXXX
+  url: "XXXXXXX"
+role: Doctoral Student
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:XXXX@bnu.edu.cn
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=rgB9BsMAAAAJ&hl
+superuser: true
+title: Le Li
+user_groups:
+- Alumni
+---

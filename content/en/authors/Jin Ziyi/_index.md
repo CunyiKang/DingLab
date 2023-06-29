@@ -25,5 +25,5 @@ social:
 superuser: true
 title: Ziyi Jin
 user_groups:
-- Administration
+- Research Assistants
 ---

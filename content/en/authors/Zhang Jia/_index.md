@@ -10,7 +10,6 @@ education:
     institution: 辽宁师范大学心理学院
     year: 2017
 email: "zhangjia_psy@foxmail.com"
-Weight: 100
 first_name: Jia
 highlight_name: false
 interests:
@@ -27,4 +26,5 @@ superuser: true
 title: Jia Zhang
 user_groups:
 - Grad Students
+weight: 10
 ---
