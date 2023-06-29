@@ -37,7 +37,7 @@ sections:
   design:
     background:
       image:
-        filename: 2022杨梦涵答辩结束.jpg
+        filename: 2023.6课题组新合照.jpg
         filters:
           brightness: 1
         parallax: false
