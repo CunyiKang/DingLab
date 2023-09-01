@@ -29,6 +29,6 @@ sections:
     is_fullscreen: true
     loop: false
     slide_height: ""
-title: Tour
+title: 导览
 type: landing
 ---

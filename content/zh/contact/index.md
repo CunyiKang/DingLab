@@ -28,6 +28,6 @@ sections:
     phone: #888 888 88 88
     text: #如果您对我们的研究感兴趣，欢迎在下方留下您的姓名、邮箱及留言内容.
     title: 联系我们
-title: Contact
+title: 联系我们
 type: landing
 ---

@@ -29,6 +29,9 @@ zh:
      - name: "联系我们"
        url: contact
        weight: 70
+     - name: "Wiki"
+       url: wiki
+       weight: 80 
 # Uncomment the lines below to configure your website in a second language.
 en:
   languageCode: en-us

@@ -18,6 +18,6 @@ sections:
     show_interests: false
     show_role: true
     show_social: true
-title: People
+title: 成员
 type: landing
 ---
