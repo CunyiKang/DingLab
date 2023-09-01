@@ -23,14 +23,11 @@ last_name: Liu
 organizations:
 - name: xxxxxxx
   url: "xxxxxxx"
-role: Doctoral Student
+role: PhD
 social:
 - icon: envelope
   icon_pack: fas
   link: mailto:xxxxx@bnu.edu.cn
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=rgB9BsMAAAAJ&hl
 superuser: true
 title: Lanfang Liu
 user_groups:

@@ -28,9 +28,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:hehuili@szu.edu.cn
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=rgB9BsMAAAAJ&hl
 superuser: true
 title: Hehui Li
 user_groups:

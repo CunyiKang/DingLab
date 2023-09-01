@@ -28,6 +28,6 @@ social:
 superuser: true
 title: Shijie Li
 user_groups:
-- Grad Students
+- Alumni
 weight: 10
 ---

@@ -21,7 +21,7 @@ interests:
 - 语言学习的脑机制
 last_name: Zhang
 organizations:
-role: Doctoral Student
+role: PhD
 social:
 - icon: envelope
   icon_pack: fas
@@ -29,6 +29,6 @@ social:
 superuser: true
 title: Juan Zhang
 user_groups:
-- Grad Students
+- Alumni
 weight: 19
 ---

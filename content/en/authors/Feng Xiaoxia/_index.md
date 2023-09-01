@@ -23,14 +23,11 @@ last_name: Feng
 organizations:
 - name: XXXX
   url: "XXXX"
-role: Doctoral Student
+role: PhD
 social:
 - icon: envelope
   icon_pack: fas
   link: mailto:XXXX@bnu.edu.cn
-- icon: google-scholar
-  icon_pack: ai
-  link: XXXXXXXXXXXXX
 superuser: true
 title: Xiaoxia Feng
 user_groups:

@@ -4,7 +4,7 @@ sections:
 - block: hero
   content:
     image:
-      filename: 研究插图拼接.png
+      filename: icon.png
     text: |
       <br>
 

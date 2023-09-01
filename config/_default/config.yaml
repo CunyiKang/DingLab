@@ -11,7 +11,7 @@ baseURL: 'https://ding-lab.netlify.app' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: zh
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: true
 removePathAccents: true

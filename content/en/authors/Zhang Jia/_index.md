@@ -25,6 +25,6 @@ social:
 superuser: true
 title: Jia Zhang
 user_groups:
-- Grad Students
+- Alumni
 weight: 10
 ---

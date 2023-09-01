@@ -3,20 +3,36 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
+zh:
+ languageCode: zh-Hans
+ contentDir: content/zh
+ title: "丁国盛课题组"
+ params:
+   description: Site description in Chinese...
+ menu:
+   main:
+     - name: "导览"
+       url: tour
+       weight: 10
+     - name: "新闻"
+       url: blog
+       weight: 20
+     - name: "成员"
+       url: people
+       weight: 30
+     - name: "成果"
+       url: publication
+       weight: 50
+     - name: "方向"
+       url: popular
+       weight: 60
+     - name: "联系我们"
+       url: contact
+       weight: 70
+# Uncomment the lines below to configure your website in a second language.
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
 
-# Uncomment the lines below to configure your website in a second language.
-zh:
- languageCode: zh-Hans
- contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+

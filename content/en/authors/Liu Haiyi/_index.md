@@ -16,7 +16,7 @@ interests:
 - 双语发展
 - 第二语言习得
 last_name: Liu
-role: Research Assistant
+role: Research Assistant (resign)
 social:
 - icon: envelope
   icon_pack: fas
@@ -25,4 +25,5 @@ superuser: true
 title: Haiyi Liu
 user_groups:
 - Research Assistants
+weight: 10
 ---

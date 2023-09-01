@@ -16,7 +16,7 @@ interests:
 - 儿童语言发展
 - 阅读障碍
 last_name: Chen
-role: Postgraduate Student
+role: Doctoral Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -24,6 +24,6 @@ social:
 superuser: true
 title: Jie Chen
 user_groups:
-- Grad Students
+- Alumni
 weight: 30
 ---
