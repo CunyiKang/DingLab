@@ -28,31 +28,6 @@ sections:
     phone: #888 888 88 88
     text: #如果您对我们的研究感兴趣，欢迎在下方留下您的姓名、邮箱及留言内容.
     title: Contact
-  design:
-    columns: "1"
-- block: markdown
-  content:
-    subtitle: ""
-    text: null
-    title: null
-  design:
-    background:
-      image:
-        filename: contact.jpg
-        filters:
-          brightness: 1
-        parallax: false
-        position: center
-        size: cover
-        text_color_light: true
-    columns: "1"
-    css_class: fullscreen
-    spacing:
-      padding:
-      - 20px
-      - "0"
-      - 20px
-      - "0"
 title: Contact
 type: landing
 ---
