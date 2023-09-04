@@ -19,7 +19,7 @@ sections:
     email: dinggsh#bnu.edu.cn
     form:
       formspree:
-        id: mzbqoowp
+        id: mleynnqj
       netlify:
         captcha: false
       provider: netlify
