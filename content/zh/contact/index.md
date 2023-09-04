@@ -18,11 +18,11 @@ sections:
     directions: 金丰和创业园C座3楼
     email: dinggsh#bnu.edu.cn
     form:
+      provider: formspree
       formspree:
         id: mleynnqj
       netlify:
         captcha: false
-      provider: netlify
     office_hours:
     - 周一至周五 9:00 to 18:00
     phone: #888 888 88 88
