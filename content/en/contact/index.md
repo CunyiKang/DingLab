@@ -18,11 +18,11 @@ sections:
     directions: Enter Building C and take the stairs to Floor 3
     email: dinggsh#bnu.edu.cn
     form:
+      provider: formspree
       formspree:
         id: mleynnqj
       netlify:
         captcha: false
-      provider: netlify
     office_hours:
     - Monday-Friday 9:00 to 18:00
     phone: #888 888 88 88
