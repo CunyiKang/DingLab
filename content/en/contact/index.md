@@ -4,18 +4,18 @@ sections:
 - block: contact
   content:
     address:
-      city: Beijing
+      city: 
       country: China
       country_code: CHN
       postcode: "100875"
-      region: Haidian
-      street: No.19, Xinjiekouwai
+      region: 
+      street: No.19, Xinjiekouwai St, Haidian District, Beijing
     appointment_url: #https://calendly.com
     autolink: true
     coordinates:
       latitude: "39.96010"
       longitude: "116.36534"
-    directions: Floor 3, Building C, Jinfeng He Business Park
+    directions: 3rd Floor, Building C, Jin Fenghe Business Yuan
     email: dinglab_psy@outlook.com
     form:
       provider: formspree
