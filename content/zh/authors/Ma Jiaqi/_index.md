@@ -11,8 +11,7 @@ first_name: Ma
 highlight_name: false
 interests:
 - 语言测评
-- 自闭症儿童
-- 言语障碍与言语治疗
+- 自闭症儿童言语障碍与治疗
 last_name: Jiaqi
 role: "硕士"
 social:
