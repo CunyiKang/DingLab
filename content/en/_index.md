@@ -7,8 +7,8 @@ sections:
       filename: icon2.png
     text: |
       <br>
-
-      Welcome to **Ding Lab**. It belong to [the National Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal university, China](https://brain.bnu.edu.cn/). We use [fMRI/MRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging),combined with cognitive-behavior experimental techniques to address the following questions: what’s the neurobasis of Language, how language experience and language learning modulate brain structure and function. Bilingualism, sign-language users (including deaf people and hearing people), and dyslexics compose our interest population.
+      
+      Welcome to **Ding Lab**. It belongs to [State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University](https://brain.bnu.edu.cn/). We use fMRI(https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging), combined with cognitive-behavior experimental techniques to investigate: what’s the neural basis of language, how language experience and language learning modulate brain structure and function. Bilinguals, sign-language users (including deaf people and hearing people), and dyslexics are our study subjects.
     title: |
       Research Group
 - block: collection
