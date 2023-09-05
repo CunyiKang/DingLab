@@ -11,7 +11,7 @@ first_name: Ma
 highlight_name: false
 interests:
 - 语言测评
-- 自闭症儿童言语障碍与治疗
+- 语言学习的脑机制
 last_name: Jiaqi
 role: Research Assistant
 social:
