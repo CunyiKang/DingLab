@@ -4,7 +4,7 @@ sections:
 - block: hero
   content:
     image:
-      filename: icon.png
+      filename: icon2.png
     text: |
       <br>
 

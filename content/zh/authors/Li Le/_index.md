@@ -23,7 +23,7 @@ last_name: Li
 organizations:
 - name: XXXXXXX
   url: "XXXXXXX"
-role: 博士
+role: 14级博士
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,5 +31,6 @@ social:
 superuser: true
 title: 李乐
 user_groups:
-- "校友"
+- 毕业生
+weight: 140
 ---

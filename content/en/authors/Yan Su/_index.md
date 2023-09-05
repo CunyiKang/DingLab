@@ -20,5 +20,6 @@ social:
 superuser: true
 title: Su Yan
 user_groups:
-- Visitors
+- Alumni
+weight: 1100
 ---

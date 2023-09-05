@@ -5,7 +5,7 @@ education:
   courses:
   - course: 博士学位
     institution: 北京师范大学心理系
-    year: 在读
+    year: 2023
   - course: 硕士学位
     institution: 
     year: 
@@ -21,7 +21,7 @@ interests:
 - 语言学习的脑机制
 last_name: Zhang
 organizations:
-role: 博士
+role: 18级博士
 social:
 - icon: envelope
   icon_pack: fas
@@ -29,6 +29,6 @@ social:
 superuser: true
 title: 张娟
 user_groups:
-- "校友"
-weight: 19
+- 毕业生
+weight: 180
 ---

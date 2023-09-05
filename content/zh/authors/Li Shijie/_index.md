@@ -20,7 +20,7 @@ interests:
 - 双语加工
 - 语言认知神经科学
 last_name: Li
-role: 博士
+role: 19级博士
 social:
 - icon: envelope
   icon_pack: fas
@@ -28,6 +28,6 @@ social:
 superuser: true
 title: 李世杰
 user_groups:
-- "校友"
-weight: 10
+- 毕业生
+weight: 190
 ---

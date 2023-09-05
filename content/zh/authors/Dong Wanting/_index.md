@@ -20,5 +20,5 @@ social:
 superuser: true
 title: 董婉婷
 user_groups:
-- "访问学生"
+- "离职成员"
 ---

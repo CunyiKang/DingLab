@@ -5,7 +5,7 @@ education:
   courses:
   - course: 博士学位
     institution: 北京师范大学心理系
-    year: 在读
+    year: 2023
   - course: 硕士学位
     institution: 
     year: 
@@ -30,5 +30,5 @@ superuser: true
 title: Juan Zhang
 user_groups:
 - Alumni
-weight: 19
+weight: 180
 ---

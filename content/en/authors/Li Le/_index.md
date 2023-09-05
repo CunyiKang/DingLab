@@ -32,4 +32,5 @@ superuser: true
 title: Le Li
 user_groups:
 - Alumni
+weight: 140
 ---

@@ -29,5 +29,5 @@ superuser: true
 title: Shijie Li
 user_groups:
 - Alumni
-weight: 10
+weight: 190
 ---

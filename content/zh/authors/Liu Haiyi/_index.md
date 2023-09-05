@@ -16,7 +16,7 @@ interests:
 - 双语发展
 - 第二语言习得
 last_name: Liu
-role: 硕士（离职）
+role: 科研助理
 social:
 - icon: envelope
   icon_pack: fas
@@ -24,6 +24,6 @@ social:
 superuser: true
 title: 刘海一
 user_groups:
-- "研究助理"
-weight: 30
+- 离职成员
+weight: 10
 ---

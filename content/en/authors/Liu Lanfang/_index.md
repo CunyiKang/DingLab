@@ -32,4 +32,5 @@ superuser: true
 title: Lanfang Liu
 user_groups:
 - Alumni
+weight: 150
 ---

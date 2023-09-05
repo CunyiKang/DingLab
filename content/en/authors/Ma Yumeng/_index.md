@@ -20,5 +20,6 @@ social:
 superuser: true
 title: Yumeng Ma
 user_groups:
-- Visitors
+- Alumni
+weight: 1100
 ---

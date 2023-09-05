@@ -20,5 +20,5 @@ social:
 superuser: true
 title: 蔡雨铎
 user_groups:
-- "访问学生"
+- "离职成员"
 ---

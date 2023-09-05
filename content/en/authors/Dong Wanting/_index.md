@@ -20,5 +20,6 @@ social:
 superuser: true
 title: Wanting Dong
 user_groups:
-- Visitors
+- Alumni
+weight: 1100
 ---

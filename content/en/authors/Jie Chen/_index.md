@@ -5,7 +5,7 @@ education:
   courses:
   - course: 硕士学位
     institution: 北京师范大学心理学部
-    year: 在读
+    year: 2023
   - course: 学士学位
     institution: 郑州大学应用心理学专业
     year: 2020
@@ -25,5 +25,5 @@ superuser: true
 title: Jie Chen
 user_groups:
 - Alumni
-weight: 30
+weight: 201
 ---

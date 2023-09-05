@@ -20,5 +20,6 @@ social:
 superuser: true
 title: Zijin Wang
 user_groups:
-- Visitors
+- Alumni
+weight: 1100
 ---

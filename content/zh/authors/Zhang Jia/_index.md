@@ -17,7 +17,7 @@ interests:
 - 阅读障碍
 - 阅读发展
 last_name: Zhang
-role: 博士
+role: 20级博士
 social:
 - icon: envelope
   icon_pack: fas
@@ -25,6 +25,6 @@ social:
 superuser: true
 title: 张佳
 user_groups:
-- "校友"
-weight: 10
+- 毕业生
+weight: 200
 ---

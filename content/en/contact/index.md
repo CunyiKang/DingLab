@@ -15,8 +15,8 @@ sections:
     coordinates:
       latitude: "39.96010"
       longitude: "116.36534"
-    directions: Enter Building C and take the stairs to Floor 3
-    email: dinggsh#bnu.edu.cn
+    directions: Floor 3, Building C, Jinfeng He Business Park
+    email: dinglab_psy@outlook.com
     form:
       provider: formspree
       formspree:

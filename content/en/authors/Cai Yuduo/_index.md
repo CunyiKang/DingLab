@@ -20,5 +20,6 @@ social:
 superuser: true
 title: Yuduo Cai
 user_groups:
-- Visitors
+- Alumni
+weight: 1100
 ---

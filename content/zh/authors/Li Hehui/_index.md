@@ -22,8 +22,8 @@ interests:
 last_name: Li
 organizations:
 - name: Shenzhen University
-  url: "https://brain.bnu.edu.cn/kytd/jsyjy/Djs/f5b018dd06d140f582ebdf24818bcb6e.htm"
-role: 助理教授
+  url: 
+role: 14级博士
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,5 +31,6 @@ social:
 superuser: true
 title: 李何慧
 user_groups:
-- "校友"
+- 毕业生
+weight: 141
 ---

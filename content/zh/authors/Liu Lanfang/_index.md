@@ -23,7 +23,7 @@ last_name: Liu
 organizations:
 - name: xxxxxxx
   url: "xxxxxxx"
-role: 博士
+role: 15级博士
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,5 +31,6 @@ social:
 superuser: true
 title: 刘兰芳
 user_groups:
-- "校友"
+- 毕业生
+weight: 150
 ---

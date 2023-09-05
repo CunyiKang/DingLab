@@ -23,7 +23,7 @@ last_name: Feng
 organizations:
 - name: 
   url: 
-role: 博士
+role: 13级硕士
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,5 +31,6 @@ social:
 superuser: true
 title: 冯小霞
 user_groups:
-- 校友
+- 毕业生
+weight: 130
 ---

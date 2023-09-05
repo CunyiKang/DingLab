@@ -19,7 +19,7 @@ interests:
 last_name: Yang
 organizations:
 - name: Beijing Normal University
-role: 博士生
+role: 19级硕士
 social:
 - icon: envelope
   icon_pack: fas
@@ -27,6 +27,6 @@ social:
 superuser: true
 title: 杨梦涵
 user_groups:
-- "校友"
-weight: 30
+- 毕业生
+weight: 191
 ---

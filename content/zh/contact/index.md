@@ -16,7 +16,7 @@ sections:
       latitude: "39.96010"
       longitude: "116.36534"
     directions: 金丰和创业园C座3楼
-    email: dinggsh#bnu.edu.cn
+    email: dinglab_psy@outlook.com
     form:
       provider: formspree
       formspree:
