@@ -29,5 +29,5 @@ superuser: true
 title: 雷扬
 user_groups:
 - "组内学生"
-weight: 20
+weight: 1
 ---

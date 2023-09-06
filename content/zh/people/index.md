@@ -11,8 +11,7 @@ sections:
     - "合作者"
     - "研究助理"
     - "组内学生"
-    - "毕业生"
-    - "离职成员"
+    - "Alumni"
 
   design:
     show_interests: false

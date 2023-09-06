@@ -25,6 +25,6 @@ social:
 superuser: true
 title: 张佳
 user_groups:
-- 毕业生
+- Alumni
 weight: 200
 ---

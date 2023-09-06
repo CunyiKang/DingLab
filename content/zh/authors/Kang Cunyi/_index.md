@@ -27,7 +27,8 @@ social:
 superuser: true
 title: 康存义
 user_groups:
-- "离职成员"
+- Alumni
+weight: 300
 ---
 
 康存义是北京师范大学珠海分校心理学三年级的学生。对文本挖掘，知识图谱，科学计量学，心理测量学和生物信息学感兴趣。欢迎联系，一起交流！

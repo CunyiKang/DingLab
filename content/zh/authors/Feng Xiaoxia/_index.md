@@ -31,6 +31,6 @@ social:
 superuser: true
 title: 冯小霞
 user_groups:
-- 毕业生
+- Alumni
 weight: 130
 ---

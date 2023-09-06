@@ -29,5 +29,5 @@ superuser: true
 title: Linyan Liu
 user_groups:
 - Grad Students
-weight: 21
+weight: 2
 ---

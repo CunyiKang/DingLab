@@ -28,6 +28,6 @@ social:
 superuser: true
 title: 李世杰
 user_groups:
-- 毕业生
+- Alumni
 weight: 190
 ---

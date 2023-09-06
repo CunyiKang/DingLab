@@ -1,5 +1,4 @@
 ---
-date: "2023-05-07"
 sections:
 - block: contact
   content:
@@ -23,11 +22,17 @@ sections:
         id: mleynnqj
       netlify:
         captcha: false
+    text: #如果您对我们的研究感兴趣，欢迎在下方留下您的姓名、邮箱及留言内容.
+    title: 联系我们
     office_hours:
     - 周一至周五 9:00至18:00
     phone: #888 888 88 88
-    text: #如果您对我们的研究感兴趣，欢迎在下方留下您的姓名、邮箱及留言内容.
-    title: 联系我们
+    contact_links:
+    - icon: user
+      icon_pack: fas
+      name: 课题组博士后招聘启事
+      link: 'https://brain.bnu.edu.cn/rczp/c06a06f23e9d4b6891f9a9ef3483e62b.htm'
 title: 联系我们
 type: landing
 ---
+

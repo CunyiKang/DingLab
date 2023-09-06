@@ -29,6 +29,6 @@ social:
 superuser: true
 title: 张娟
 user_groups:
-- 毕业生
+- Alumni
 weight: 180
 ---

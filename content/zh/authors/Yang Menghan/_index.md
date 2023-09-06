@@ -27,6 +27,6 @@ social:
 superuser: true
 title: 杨梦涵
 user_groups:
-- 毕业生
+- Alumni
 weight: 191
 ---

@@ -25,5 +25,5 @@ superuser: true
 title: Yue Yang
 user_groups:
 - Grad Students
-weight: 30
+weight: 6
 ---

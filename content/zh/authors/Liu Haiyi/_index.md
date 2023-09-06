@@ -24,6 +24,6 @@ social:
 superuser: true
 title: 刘海一
 user_groups:
-- 离职成员
-weight: 10
+- Alumni
+weight: 299
 ---

@@ -16,7 +16,7 @@ interests:
 - 儿童语言发展
 - 阅读障碍
 last_name: Chen
-role: 20级硕士
+role: 博士生
 social:
 - icon: envelope
   icon_pack: fas
@@ -24,6 +24,6 @@ social:
 superuser: true
 title: 陈洁
 user_groups:
-- 毕业生
-weight: 201
+- 组内学生
+weight: 3
 ---

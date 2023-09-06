@@ -24,6 +24,6 @@ social:
 superuser: true
 title: Jie Chen
 user_groups:
-- Alumni
-weight: 201
+- Grad Students
+weight: 3
 ---

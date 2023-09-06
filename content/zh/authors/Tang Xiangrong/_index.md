@@ -26,5 +26,5 @@ superuser: true
 title: 汤翔嵘
 user_groups:
 - "组内学生"
-weight: 30
+weight: 4
 ---

@@ -29,5 +29,5 @@ superuser: true
 title: 刘林焱
 user_groups:
 - "组内学生"
-weight: 21
+weight: 2
 ---

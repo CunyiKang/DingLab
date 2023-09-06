@@ -20,5 +20,6 @@ social:
 superuser: true
 title: 王子衿
 user_groups:
-- "离职成员"
+- Alumni
+weight: 300
 ---

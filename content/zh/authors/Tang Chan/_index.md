@@ -25,5 +25,5 @@ superuser: true
 title: 唐婵
 user_groups:
 - "组内学生"
-weight: 30
+weight: 5
 ---
