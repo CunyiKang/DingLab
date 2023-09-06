@@ -28,6 +28,11 @@ sections:
     phone: #888 888 88 88
     text: #如果您对我们的研究感兴趣，欢迎在下方留下您的姓名、邮箱及留言内容.
     title: Contact
+    contact_links:
+    - icon: user
+      icon_pack: fas
+      name: Postdoc position 
+      link: 'https://brain.bnu.edu.cn/rczp/c06a06f23e9d4b6891f9a9ef3483e62b.htm'
 title: Contact
 type: landing
 ---
