@@ -3,6 +3,9 @@ bio:
   matter.
 education:
   courses:
+  - course: 硕士学位
+    institution: 利兹大学
+    year: 2024
   - course: 学士学位
     institution: 北京师范大学珠海分校
     year: 2021
